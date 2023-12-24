@@ -1,0 +1,16 @@
+{
+  "name": "googleapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-ai/generativelanguage": "^0.2.1",
+    "bard-api-node": "^1.3.0",
+    "google-auth-library": "^9.0.0"
+  }
+}
